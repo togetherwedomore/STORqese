@@ -10,5 +10,6 @@ Cleaners and tailor shops. Travel,Cruise Upscale
 creature comforts and services cared for, 
 which is a significant factor in overall decentralizing
 🔑 to Global industries
-We connect with Kayak Price-line. Cleaner's Tailorshop
+We connect
+ Cleaner's Tailorshop
 Cruise line-Airline- Travel-Rental Airbnb-Pick-up/drp
