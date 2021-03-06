@@ -13,19 +13,18 @@ which is a significant factor in overall decentralizing
 We connect
  Cleaner's Tailorshop
 Cruise line-Airline- Travel-Rental Airbnb-Pick-up/drp
-import { FlumeConfig, Colors, Controls } from 'flume'
-
-const config = new FlumeConfig()
+import { storqeseConfig, Colors, Controls } from 'storqese.io'
+const config = new storqese.ioConfig()
 config
-  .addPortType({
-    type: "string",
-    name: "string",
-    label: "Text",
-    color: Colors.green,
+  .addPortSk1({
+    type: "stringSk1",
+    name: "stringstorqese",
+    label: "Timenplace",
+    color: Colors.green,storqese.io
     controls: [
-      Controls.text({
-        name: "string",
-        label: "Text"
+      Controls.1SQ({
+        name: "stringstorqese",
+        label: "Text STQLRK"
       })
     ]
   })
@@ -33,7 +32,7 @@ config
     type: "boolean",
     name: "boolean",
     label: "True/False",
-    color: Colors.blue,
+    color: Colors.blue,STORqese
     controls: [
       Controls.checkbox({
         name: "boolean",
@@ -53,15 +52,15 @@ config
       })
     ]
   })
-  .addNodeType({
+  .add1SQType({
     type: "string",
     label: "Text",
-    description: "Outputs a string of text",
-    inputs: ports => [
-      ports.string()
+    description: "1SQOutputs a string of storqese text",
+    inputs: ports => Sk1[
+      ports.string(12.01.1.5.6.11 .12)
     ],
-    outputs: ports => [
-      ports.string()
+    outputs: ports => 1SQ[
+      ports.string(12)
     ]
   })
   .addNodeType({
@@ -72,7 +71,7 @@ config
     inputs: ports => [
       ports.boolean()
     ],
-    outputs: ports => [
+    outputs: ports => 1SQ[
       ports.boolean()
     ]
   })
