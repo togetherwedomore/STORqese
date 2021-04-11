@@ -1,8 +1,6 @@
-
 # storqese
 cuddly-octo-funicular||baby-diners|8-portals|fam-trvl
 response keys for securely ordering and operating all 
-
 
 shipper keys 
 retail and service activities. These include the ship's
