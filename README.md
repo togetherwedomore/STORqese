@@ -56,7 +56,7 @@ config
   .add1SQType({
     type: "string",
 
-    label: "Text",
+    label: "Texti",
     description: "1SQOutputs a string of storqese text",
     inputs: ports => Sk1[
       ports.string(12.01.1.5.6.11 .12)
@@ -144,5 +144,4 @@ ProductType            0
 CoCreditScore     205146
 MortInsType       260578
 RelMortInd             0
-Default                0
-decryprototype: int64
+Default                0decryproitotype: int64
