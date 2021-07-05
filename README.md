@@ -1,4 +1,5 @@
 8# storqese storekeys.crypto
+https://docs.github.com/en/github/copilot/about-github-copilot-telemetry
 cuddly-octo-funicular||baby-diners|8-portals|fam-trvl
 response keys for securely ordering and operating all 
 shipper keys 
